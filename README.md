@@ -1,16 +1,20 @@
-### Hi there 👋
+## takashi
 
-<!--
-**takashi/takashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### TL;TR
 
-Here are some ideas to get you started:
+Software Engineer in Tokyo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- Ruby on Rails
+- JavaScript
+- Golang
+- Flutter
+
+### Work(ed) for
+
+- NowDo Inc.(2020-) Software Engineer
+- CAMPFIRE, Inc (2017-2020) Chief Technology Officer
+- Increments, Inc (2016-2017) Software Engineer
+- div, Inc (2015-2016) Chief Engineer
+
