@@ -1,9 +1,5 @@
 ## takashi
 
-### TL;TR
-
-Software Engineer in Tokyo.
-
 ### Skills
 
 - Ruby on Rails
