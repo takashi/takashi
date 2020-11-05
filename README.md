@@ -18,3 +18,5 @@ Software Engineer in Tokyo.
 - Increments, Inc (2016-2017) Software Engineer
 - div, Inc (2015-2016) Chief Engineer
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=takashi&count_private=true)
