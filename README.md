@@ -2,10 +2,10 @@
 
 ### Skills
 
-- Ruby on Rails
-- JavaScript
 - Golang
 - Flutter
+- JavaScript
+- Ruby on Rails
 
 ### Work(ed) for
 
