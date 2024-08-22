@@ -9,7 +9,7 @@
 
 ### Work(ed) for
 
-- Souzoh, Inc.(2021-now) Software Engineer
+- Souzoh, Inc.(2021-2023) Software Engineer
 - NowDo Inc.(2020-2021) Software Engineer
 - CAMPFIRE, Inc (2017-2020) Chief Technology Officer
 - Increments, Inc (2016-2017) Software Engineer
